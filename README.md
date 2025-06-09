@@ -58,11 +58,9 @@ The player controls a spaceship to shoot down incoming enemies and avoid collisi
 
 ## 📁 Folder Structure
 
-- `college_assignment.pde` – main game loop
-- `Player.java` – player movement and shooting
-- `Enemy.java` – enemy generation and collision logic
-- `Bullet.java` – projectile tracking
-- `Key.java` – input handling
+- `ProjectV2.pde`– main game loop 
+- `enemy.pde` – enemy generation and collision logic
+- `BulletHell.pde` – projectile tracking 
 
 ---
 
